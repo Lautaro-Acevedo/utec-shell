@@ -10,3 +10,4 @@
 * 8-James_Bond: Establece los permisos de hello a 007 (sin permisos para propietario y grupo, todos los permisos para otros).
 * 9-John_Doe: Establece el modo del archivo hello a -rwxr-x-wx (chmod 753).
 * 10-mirror_permissions: Copia los permisos del archivo olleh al archivo hello.
+* 11-directories_permissions: Agrega permiso de ejecucion a todos los subdirectorios para propietario, grupo y otros sin afectar archivos.
