@@ -8,3 +8,4 @@
 * 6-multiple_permissions: Anade permiso de ejecucion al propietario y al grupo, y permiso de lectura a otros usuarios para el archivo hello.
 * 7-everybody: Anade permiso de ejecucion a todos los usuarios para el archivo hello sin usar comas.
 * 8-James_Bond: Establece los permisos de hello a 007 (sin permisos para propietario y grupo, todos los permisos para otros).
+* 9-John_Doe: Establece el modo del archivo hello a -rwxr-x-wx (chmod 753).
