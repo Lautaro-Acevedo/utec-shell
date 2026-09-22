@@ -13,3 +13,4 @@
 * 11-directories_permissions: Agrega permiso de ejecucion a todos los subdirectorios para propietario, grupo y otros sin afectar archivos.
 * 12-directory_permissions: Crea el directorio my_dir con permisos 751.
 * 13-change_group: Cambia el grupo propietario del archivo hello a school.
+* 14-change_owner_and_group: Cambia el propietario a vincent y el grupo a staff para todos los archivos del directorio actual.
