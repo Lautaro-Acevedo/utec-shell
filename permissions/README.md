@@ -12,3 +12,4 @@
 * 10-mirror_permissions: Copia los permisos del archivo olleh al archivo hello.
 * 11-directories_permissions: Agrega permiso de ejecucion a todos los subdirectorios para propietario, grupo y otros sin afectar archivos.
 * 12-directory_permissions: Crea el directorio my_dir con permisos 751.
+* 13-change_group: Cambia el grupo propietario del archivo hello a school.
