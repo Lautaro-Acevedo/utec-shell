@@ -7,3 +7,4 @@
 * 5-listfilesdigitonly: Muestra el contenido en formato largo, con archivos ocultos y con IDs de usuario y grupo numéricos.
 * 6-firstdirectory: Crea el directorio my_first_directory en /tmp/.
 * 7-movethatfile: Mueve el archivo betty de /tmp/ a /tmp/my_first_directory/.
+* 8-firstdelete: Elimina el archivo betty ubicado en /tmp/my_first_directory/.
