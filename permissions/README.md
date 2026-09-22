@@ -6,3 +6,4 @@
 * 4-empty: Crea un archivo vacio llamado hello.
 * 5-execute: Otorga permisos de ejecucion al propietario del archivo hello.
 * 6-multiple_permissions: Anade permiso de ejecucion al propietario y al grupo, y permiso de lectura a otros usuarios para el archivo hello.
+* 7-everybody: Anade permiso de ejecucion a todos los usuarios para el archivo hello sin usar comas.
