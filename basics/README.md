@@ -6,3 +6,4 @@
 * 4-listmorefiles: Muestra el contenido del directorio actual, incluidos los archivos ocultos, en formato largo.
 * 5-listfilesdigitonly: Muestra el contenido en formato largo, con archivos ocultos y con IDs de usuario y grupo numéricos.
 * 6-firstdirectory: Crea el directorio my_first_directory en /tmp/.
+* 7-movethatfile: Mueve el archivo betty de /tmp/ a /tmp/my_first_directory/.
